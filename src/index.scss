@@ -1,0 +1,18 @@
+$bgColor : chocolate;
+$fontMainColor : white;
+
+body {
+  margin: 0;;
+  padding: 0;
+}
+
+
+html {
+  font-family: 'Noto Sans Display', sans-serif;
+  background-color:$bgColor;
+  color: $fontMainColor;
+}
+
+.main-container {
+  padding: 0 2em;
+}
